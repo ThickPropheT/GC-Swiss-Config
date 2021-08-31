@@ -1,0 +1,4 @@
+--chroma-location=left
+--format=custom,offset=0,scaled-size=0:0
+--scan-mode=non-interlace,no-clock2x,no-size2x
+--
