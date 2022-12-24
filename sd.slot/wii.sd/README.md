@@ -42,4 +42,4 @@ Configure Swiss:
 		the list of recently opened applications. This list is saved in the
 		`<SD_card>:/swiss/settings/recent.ini` file. To preserve the list, ensure
 		that this file is not replaced/deleted when copying the `swiss` configuration
-		directory in step 5.
+		directory in this step.

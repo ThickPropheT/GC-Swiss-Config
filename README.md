@@ -1,4 +1,5 @@
-# GC-Swiss-Config
+GC-Swiss-Config
+===============
 
 Versions:
 --------
