@@ -4,7 +4,7 @@ Wii SD / SD Gecko
 Executable Source:
 -----------------
 
-	`swiss_rVVVV/DOL/swiss_rVVVV.dol` => `./autoexec.dol`
+	swiss_rVVVV/DOL/swiss_rVVVV.dol => ./autoexec.dol
 
 
 Requirements:
@@ -22,11 +22,11 @@ Boot via Datel Action Replay:
 
 1. Copy `./autoexec.dol` to the root of the SD card.
 
-2. Follow steps in Configure Swiss section below.
+1. Follow steps in Configure Swiss section below.
 
-3. Insert the SD card into the Wii SD adapter in memory card slot B.
+1. Insert the SD card into the Wii SD adapter in memory card slot B.
 
-4. Insert the Action Replay disc and turn on the console.
+1. Insert the Action Replay disc and turn on the console.
 
 
 Configure Swiss:
@@ -34,9 +34,9 @@ Configure Swiss:
 
 1. Navigate to the `./config` directory.
 
-2. Navigate to the directory corresponding to the video output you will be using.
+1. Navigate to the directory corresponding to the video output you will be using.
 
-3. Copy the `./config/<video_output>/swiss/` directory to the root
+1. Copy the `./config/<video_output>/swiss/` directory to the root
 	of the SD card.
 	a. **NOTE** that if the SD card is being updated, you can preserve
 		the list of recently opened applications. This list is saved in the
