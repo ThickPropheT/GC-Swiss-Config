@@ -4,7 +4,7 @@ GC Loader
 Executable Source:
 -----------------
 
-	`swiss_rVVVV/GCLoader/boot.iso` => `./boot.iso`
+	swiss_rVVVV/GCLoader/boot.iso => ./boot.iso
 
 
 Requirements:
