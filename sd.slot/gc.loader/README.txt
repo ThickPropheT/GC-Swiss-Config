@@ -37,6 +37,13 @@ At present, Swiss is not capable of loading its configuration from
 the GC Loader SD card. In order to configure Swiss, a secondary SD
 card is required.
 
+**IMPORTANT**
+It is recommended to add Swiss configuration to ALL SD card readers that
+you plan to have installed. This way, Swiss will be able to access a
+consistent configuration, no matter which SD card reader is configured
+as the default configuration source (see Configuration Device in Swiss's
+Global Settings menu).
+
 1. Navigate to the `/sd.slot/` directory.
 
 2. Navigate to the directory corresponding to the secondary SD card
