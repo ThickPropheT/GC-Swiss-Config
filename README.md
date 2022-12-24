@@ -5,7 +5,7 @@ Versions:
 --------
 
 - **Swiss**: v0.6r1400
-- **GBI**: YYYYMMDD
+- **GBI**: 20221130
 
 
 Installation:
