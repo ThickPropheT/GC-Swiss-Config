@@ -1,0 +1,5 @@
+--delay-video=2
+--format=hdcustom
+--scan-mode=non-interlace,clock2x,no-size2x,strobe
+--
+##https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface/High-Fidelity_Edition#Computer_monitors_.28Cathode-ray_tube.29

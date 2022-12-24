@@ -1,0 +1,12 @@
+--aspect=3:2
+--offset=0
+--zoom=3
+--zoom-step=1.
+--no-overlay
+--filter=prescale
+--dither=bayer2x2
+--scaler=nearest
+--format=ntsc
+--scan-mode=progressive
+--
+##https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface/Standard_Edition#Insurrection_Industries_Carby_Component_Cable

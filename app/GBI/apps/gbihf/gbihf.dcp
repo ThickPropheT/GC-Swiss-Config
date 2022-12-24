@@ -1,0 +1,47 @@
+Name={--delay-video, Video Buffering}
+Values={0, Single}, {1, Double}, {2, Triple}
+
+Name={--format, Video Format}
+Values={ntsc, NTSC}, {pal, PAL}, {pal-m, PAL-M}, {ntsc-50, NTSC-50}, {pal-60, PAL-60}, {custom, Custom}, {custom-m, Custom-M}, {hd60, HD60}
+
+Name={--scan-mode, Video Mode}
+Values={interlace, 480i60}, {interlace clock2x no-size2x, 480i120}, {quasi-interlace, 480sf30}, {non-interlace, 240p60}, {non-interlace clock2x no-size2x, 240p120}, {non-progressive, 960i60}, {progressive, 480p60}
+
+Name={--scan-mode, Pixel Doubling}
+Values={no-clock2x no-size2x, No}, {clock2x size2x, Yes}
+
+Name={--chroma-location, Chroma Location}
+Values={left, Left}, {center, Center}, {right, Right}
+
+Name={--colorspace, Color Space}
+Values={gray, Grayscale}, {ycc601, YCC601}, {ycc709, YCC709}, {ycc2020, YCC2020}, {rgb709, RGB709}, {rgb2020, RGB2020}
+
+Name={--control, Control Scheme}
+Values={0, Type A}, {1, Type B}, {2, Type C}, {3, Type D}, {4, Type E¹}, {6, Type E²}, {7, Type E³}, {0:1:2:3, All Types}
+
+Name={--poll, Polling Rate}
+Values={0, VSync}, {1, 1000Hz}, {2, 500Hz}, {3, 350Hz}, {4, 300Hz}, {5, 250Hz}, {6, 200Hz}, {7, 150Hz}
+
+Name={, Rumble}
+Values={--no-enhance, No}, {--enhance, Yes}
+
+Name={--palette, Color Palette}
+Values={704, 1-A}, {705, 1-B}, {706, 1-C}, {707, 1-D}, {708, 1-E}, {709, 1-F}, {710, 1-G}, {711, 1-H}
+
+Name={--matrix, Color Matrix}
+Values={identity, Identity}, {gba, GBA}, {gbi, GBI}, {nds, NDS}, {palm, Palm}, {psp, PSP}, {vba, VBA}
+
+Name={--input-gamma, Decoding Gamma}
+Values={1.0, 1.0}, {1.8, 1.8}, {2.2, 2.2}, {2.7, 2.7}, {3.15, 3.15}, {4.0, 4.0}
+
+Name={--output-gamma, Encoding Gamma}
+Values={1.0, 1.0}, {1.45, 1.45}, {1.7, 1.7}, {1.961, 1.961}, {2.2, 2.2}, {2.4, 2.4}, {2.8, 2.8}
+
+Name={--contrast, Contrast}
+Values={0.5, 50%}, {0.6, 60%}, {0.65, 65%}, {0.7, 70%}, {0.75, 75%}, {0.78125, 78.125%}, {1.0, 100%}, {1.1, 110%}
+
+Name={--volume, Volume}
+Values={1.0, 100%}, {0.75, 75%}, {0.5, 50%}, {0.25, 25%}, {0.125, 12.5%}, {0.0, Mute}
+
+Name={--sound, Sound}
+Values={digital, Digital}, {analog, Analog}, {original, Original}

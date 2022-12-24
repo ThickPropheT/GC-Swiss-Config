@@ -1,0 +1,5 @@
+--colorspace=rgb709
+--format=custom,offset=0,scaled-size=0:0,no-border
+--scan-mode=progressive
+--
+##https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface/High-Fidelity_Edition#Datapath_VisionAV_.26_VisionRGB

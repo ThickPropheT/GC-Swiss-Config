@@ -1,0 +1,11 @@
+--control-stretch
+--delay-video=2
+--profile=srgb
+--contrast=.78125
+--vfilter=.5:.25:.25
+--sound=original
+--format=ntsc,scaled-size=666:448,size=608:448
+--scan-mode=interlace
+--enhance
+--
+##https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface/Speedrunning_Edition#Game_Boy_Player_Start-up_Disc_.2860Hz.29

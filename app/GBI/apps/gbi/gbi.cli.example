@@ -1,0 +1,9 @@
+--aspect=4:3
+--overlay=frame-srgb.tpl.gz
+--dither=none
+--profile=srgb
+--contrast=.78125
+--sound=original
+--no-osd
+--
+##https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface/Standard_Edition#Game_Boy_Player_Start-up_Disc
