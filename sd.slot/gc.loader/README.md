@@ -4,7 +4,7 @@ GC Loader
 Executable Source:
 -----------------
 
-	`swiss_rVVVV/GCLoader/boot.iso` => `./boot.iso`
+	swiss_rVVVV/GCLoader/boot.iso => ./boot.iso
 
 
 Requirements:
@@ -22,12 +22,12 @@ Boot from GC Loader:
 
 1. Copy `./boot.iso` to the root of the GC Loader SD card.
 
-2. Follow steps in Configure Swiss section below.
+1. Follow steps in Configure Swiss section below.
 
-3. Insert the GC Loader SD card into the GC Loader and
+1. Insert the GC Loader SD card into the GC Loader and
 	the Secondary SD card into its respective card slot.
 
-4. Turn on the console.
+1. Turn on the console.
 
 
 Configure Swiss:
@@ -46,8 +46,8 @@ Global Settings menu).
 
 1. Navigate to the `/sd.slot/` directory.
 
-2. Navigate to the directory corresponding to the secondary SD card
+1. Navigate to the directory corresponding to the secondary SD card
 	slot you will be using.
 
-3. Open the chosen directory's `README.txt` file and follow the steps
+1. Open the chosen directory's `README.txt` file and follow the steps
 	in the Configure Swiss section.
