@@ -1,12 +1,14 @@
 # GC-Swiss-Config
 
 Versions:
+--------
 
 - Swiss: v0.6r1400
 - GBI:
 
 
 Installation:
+------------
 
 1. Navigate to `./sd.slot/`.
 2. Navigate to the directory corresponding to the device you would like to boot from.
