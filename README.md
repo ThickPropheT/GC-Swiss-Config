@@ -3,8 +3,8 @@
 Versions:
 --------
 
-- **Swiss**:    v0.6r1400
-- **GBI**:      YYYYMMDD
+- **Swiss**: v0.6r1400
+- **GBI**: YYYYMMDD
 
 
 Installation:
