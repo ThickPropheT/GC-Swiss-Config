@@ -21,6 +21,8 @@ Boot via Datel Action Replay:
 ----------------------------
 
 1. Copy `./autoexec.dol` to the root of the SD card.
+	1. **NOTE** that `autoexec.dol` can be hidden from view
+		within the Swiss menu (see the root `README.md`).
 
 1. Follow steps in Configure Swiss section below.
 

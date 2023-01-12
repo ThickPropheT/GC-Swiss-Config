@@ -21,6 +21,8 @@ Boot from GC Loader:
 -------------------
 
 1. Copy `./boot.iso` to the root of the GC Loader SD card.
+	1. **NOTE** that `boot.iso` can be hidden from view
+		within the Swiss menu (see the root `README.md`).
 
 1. Follow steps in Configure Swiss section below.
 
