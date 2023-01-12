@@ -18,7 +18,7 @@ Requirements:
 
 
 Boot from GC Loader:
--------------------
+===================
 
 1. Copy `./boot.iso` to the root of the GC Loader SD card.
 	1. **NOTE** that `boot.iso` can be hidden from view
@@ -33,7 +33,7 @@ Boot from GC Loader:
 
 
 Configure Swiss:
----------------
+===============
 
 At present, Swiss is not capable of loading its configuration from
 the GC Loader SD card. In order to configure Swiss, a secondary SD
