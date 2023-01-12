@@ -24,7 +24,5 @@ can be hidden from view in Swiss's menus to avoid clutter or accidental executio
 of apps that shouldn't be run by end-users (e.g. `boot.iso` or `autoexec.dol`).
 
 1. Navigate to the file you wish to hide in Swiss.
-
 1. Right click the file and select `Properties`.
-
 1. In the `Attributes:` section, check the box next to `Hidden`.
