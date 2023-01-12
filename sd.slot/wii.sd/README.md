@@ -12,17 +12,20 @@ Requirements:
 
 - 1x Wii SD (a.k.a. SD Gecko) inserted into memory card slot B.
 
-
-Boot via Datel Action Replay:
-============================
-
-Additional Requirements:
------------------------
-
-- 1x 4GB or less SD card formatted to FAT.
+- 1x 4GB or less SD card formatted to FAT **for booting via Action Replay**.
 	- **NOTE** that some Wii SD/SD Gecko adapters may only support
 		SD and not SDHC or SDXC.
 
+**OR**
+
+- 1x SD card up to 2TB formatted to FAT or FAT32 **for general storage or Swiss Configuration**.
+
+	- **NOTE** that some Wii SD/SD Gecko adapters may only support
+		SD and not SDHC or SDXC.
+
+
+Boot via Datel Action Replay:
+----------------------------
 
 1. Copy `./autoexec.dol` to the root of the SD card.
 	1. **NOTE** that `autoexec.dol` can be hidden from view
@@ -36,15 +39,7 @@ Additional Requirements:
 
 
 Configure Swiss:
-===============
-
-Additional Requirements:
-----------------------
-
-- 1x SD card up to 2TB formatted to FAT or FAT32.
-	- **NOTE** that some Wii SD/SD Gecko adapters may only support
-		SD and not SDHC or SDXC.
-
+---------------
 
 1. Navigate to the `./config` directory.
 
