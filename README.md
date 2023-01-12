@@ -13,4 +13,4 @@ Installation:
 
 1. Navigate to `./sd.slot/`.
 2. Navigate to the directory corresponding to the device you would like to boot from.
-3. Open the chosen directory's `README.txt` file for further instructions.
+3. Open the chosen directory's `README.md` file for further instructions.
